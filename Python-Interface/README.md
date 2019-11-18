@@ -20,6 +20,6 @@ https://blog.csdn.net/greatsam/article/details/90672386
 
 
 
-学习笔记：Python for yolo 之 调用摄像头识别物体
+学习笔记：Python for yolo 之 调用摄像头识别物体      
 https://blog.csdn.net/LutherK/article/details/80177400
 
